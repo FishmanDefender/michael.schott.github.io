@@ -10,3 +10,6 @@ Gemfile.lock
 
 _unused/
 _site_copy/
+
+assets/img/_untracked
+assets/img/pictures/_untracked
