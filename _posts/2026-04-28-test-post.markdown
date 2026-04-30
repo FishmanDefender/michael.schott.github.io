@@ -12,3 +12,5 @@ This is a test!
 <!--more-->
 
 This is the rest of the post past the excerpt!
+
+If you're reading this on the live site, then welcome and thanks for taking the time to poke around!
